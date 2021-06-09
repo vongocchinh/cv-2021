@@ -75,6 +75,7 @@
 .container-left-img img {
     width: 100%;
     height: 100%;
+    border:1px solid #007DF2;
 }
 
 .container-left-contact {
@@ -135,7 +136,7 @@
 .summary {
     width: 100%;
     border-bottom: 1px solid #007DF2;
-    font-size: 15px;
+    font-size: 14px;
     text-transform: uppercase;
     color: #007DF2;
 }
