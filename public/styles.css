@@ -6,9 +6,9 @@
 }
 
 .container {
-    margin-left: 10%;
-    margin-right: 10%;
-    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
     min-height: 100vh;
 }
 
@@ -23,7 +23,7 @@
 }
 .p-4{
     font-size: 13px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     padding-top: 5px;
 }
 .p-4 span{
@@ -80,7 +80,8 @@
 .container-left-contact {
     width: 80%;
     height: auto;
-    margin-top: 20px;
+    /* margin-top: 20px; */
+    margin-left: 20px;
 }
 
 .contact {
@@ -95,7 +96,7 @@
 .contact-div-item {
     width: 100%;
     height: auto;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     line-height: 1.5;
 }
 .contact-div-item p strong {
@@ -135,7 +136,7 @@
     width: 100%;
     border-bottom: 1px solid #007DF2;
     font-size: 15px;
-    text-transform: capitalize;
+    text-transform: uppercase;
     color: #007DF2;
 }
 
@@ -162,19 +163,20 @@
 }
 
 .container-item-main-right-skill ul li {
-    width: 43%;
+    width: 90%;
     list-style-type: disc;
     float: left;
     margin-left: 15px;
     font-weight: 520;
 }
 .pp{
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .p-2 {
     margin-top: 10px;
     font-size: 13.5px;
+    margin-left: 15px;
 }
 
 .container-experience {
@@ -184,7 +186,7 @@
 }
 
 .container-experience li {
-    margin-left: 15px;
+    margin-left: 20px;
 }
 
 .container-experience p {
@@ -306,6 +308,7 @@
   }
   .container-experience-li a{
       font-size: 13px;
+      color: #007DF2;
 
   }
   .container-experience-li a ul {
