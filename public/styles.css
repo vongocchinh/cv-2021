@@ -61,7 +61,6 @@
 .container-left-img {
     width: 150px;
     height: 180px;
-    display: flex;
     justify-content: center;
     align-items: center;
     float: left;
@@ -81,7 +80,7 @@
 .container-left-contact {
     width: 80%;
     height: auto;
-    float: left;
+    margin-top: 20px;
 }
 
 .contact {
